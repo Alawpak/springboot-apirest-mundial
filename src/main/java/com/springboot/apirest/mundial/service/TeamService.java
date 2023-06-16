@@ -1,4 +1,5 @@
 package com.springboot.apirest.mundial.service;
 
-public class TeamService {
+public interface TeamService {
+    
 }
